@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGx5FxwwSTB8QKeLP2CD2NiCkuisMHGJ7Z0HxQDW4QrOFBaiToZLj0KCHH6R7M71Td6bO8D3tnuEJ4IURg2Qpw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

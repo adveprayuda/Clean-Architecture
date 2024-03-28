@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\obj\\Debug\\net7.0\\build-gz\\F+QF51xr.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebAssembly.styles.css",
+      "PackagePath": "staticwebassets\\WebAssembly.styles.css"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\WebAssembly\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAssembly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAssembly.props",
+      "PackagePath": "build\\WebAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAssembly.props",
+      "PackagePath": "buildMultiTargeting\\WebAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAssembly.props",
+      "PackagePath": "buildTransitive\\WebAssembly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,68 @@
+﻿@page "/"
+@using Application.Services
+@using Blazored.Toast.Configuration
+@using Domain.Entities
+@using Blazored.Toast
+@using Blazored.Toast.Services
+
+@inject IEmployeeService emp
+@inject IToastService ToastService
+
+<PageTitle>Index</PageTitle>
+
+<div class="row">
+    <div class="col-lg-6">
+        <EditForm Model="@employee" OnValidSubmit="Save">
+            <DataAnnotationsValidator />
+
+            <div class="form-group">
+                <label for="name">Username:</label>
+                <InputText id="name" class="form-control" @bind-Value="@employee.Name"></InputText>
+                @* <ValidationMessage For="@(() => employee.Name)" /> *@
+                <ValidationMessage For="()=>employee.Name" />
+            </div>
+
+            <button class="btn btn-primary mt-5 mb-5" type="submit">Save</button>
+        </EditForm>
+    </div>
+</div>
+
+
+
+@* <div class="row">
+    <div class="col-lg-6">
+        <EditForm Model="employee" OnValidSubmit="Save">
+            <DataAnnotationsValidator/>
+            
+        </EditForm>
+    </div>
+</div>
+ *@
+<BlazoredToasts Position="ToastPosition.BottomLeft"
+                Timeout="@duration"
+                IconType="IconType.FontAwesome"
+                SuccessClass="success-toast-override"
+                SuccessIcon="fa fa-thumbs-up"
+                ErrorIcon="fa fa-bug" />
+
+
+ 
+@code {
+    int duration;
+    Employee employee = new Employee();
+
+    async Task Save()
+    {
+        var (flag, message) = await emp.AddAsync(employee);
+        if (!flag)
+        {
+            duration = 10;
+            Console.WriteLine(flag);
+            ToastService.ShowError("Error");
+            return;
+        }
+        
+        ToastService.ShowSuccess("success");
+        
+    }
+}

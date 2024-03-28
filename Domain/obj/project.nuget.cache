@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZJczEJwvGGgKz9EyXOml2yOMZLzwIuCZFhVHmi2VeWJi7jIGnGr3pd5ilr4XWQs9OjULAocEOZen1S6LufEEg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\Tes Lamar Kerja\\LPS\\LPSTestNo8\\LPSTest\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

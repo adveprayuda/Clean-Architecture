@@ -1,0 +1,12 @@
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\bin\Debug\net7.0\Domain.dll
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.dll
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Project\Tes Lamar Kerja\LPS\LPSTestNo8\LPSTest\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
